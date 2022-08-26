@@ -1,0 +1,19 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=PiFanControlFinal
+*Date=04:25:43
+*CreatedBy=Fritzing 0.9.10b.2022-07-01.CD-2134-0-40d23c29
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;6.53838;-23.4195;180;Bottom;J3
+2;100;THT;6.53838;-13.2595;90;Bottom;R1
+3;;TO92 [THT];4.08728;-7.98903;-90;Bottom;C1815
+4;;THT;5.26838;-3.09953;90;Bottom;J2
