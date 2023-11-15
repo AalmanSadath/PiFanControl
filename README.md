@@ -12,10 +12,10 @@ Low profile control of 5V non-PWM fan for Raspberry Pi with NPN transistor
 
 **NON ECB transistors can also be used but tracks of PCB will need to be changed
 
-All soldering and components are on the same side of the tracks to ensure short circuits and obstructions is not caused by other GPIO Pins
+All soldering and components are on the same side of the tracks to ensure short circuits and obstructions are not caused by other GPIO Pins
 
 ### Note
-Pins 2,4 and 6 will be used by the PCB and Pins 3-24 will be blocked by the PCB (Pin Numbers are based on [this](https://cdn.sparkfun.com/assets/learn_tutorials/1/5/9/5/GPIO.png) diagram. *NOT GPIO NUMBERS*)
+Pins 4, 6 and 8 will be used by the PCB and Pins 3-24 will be blocked by the PCB (Pin Numbers are based on [this](https://cdn.sparkfun.com/assets/learn_tutorials/1/5/9/5/GPIO.png) diagram. *NOT GPIO NUMBERS*)
 
 ## Script to control Fan
 
